@@ -8,5 +8,5 @@ function testGS() {
       document.getElementById("app").textContent = d[0].status
     })
 }
-
+//made the branch main
 document.getElementById("btn").addEventListener("click", testGS)
