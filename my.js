@@ -1,5 +1,5 @@
 const url =
-  "https://script.google.com/macros/s/AKfycbxcc1X_283QieqSZzkI7uvm5SY2t_sno_saLFDVyxJ_dYBNhT9ms859GwaXmpvN2NcU/exec"
+  "https://script.google.com/macros/s/AKfycbwV_E6YMBaHFpN1cD9yKnY03WbuaeaVfgE2motx-1OkODDheb7pepGfLOu4qnDpdU28/exec"
 function testGS() {
   // const url =
   //   "https://script.google.com/macros/s/AKfycbxaM4-WD_wuTwbxJ1F-C8K2BiGU_xNoUVDtgw86LPm-uaH6JPkx1W_32HOhlhBmOAw/exec"
